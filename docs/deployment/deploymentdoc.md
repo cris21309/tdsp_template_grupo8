@@ -10,9 +10,12 @@
 
 ## Código de despliegue
 
-- **Archivo principal:** (nombre del archivo principal que contiene el código de despliegue)
-- **Rutas de acceso a los archivos:** (lista de rutas de acceso a los archivos necesarios para el despliegue)
-- **Variables de entorno:** (lista de variables de entorno necesarias para el despliegue)
+- **Archivo principal:** El modelo es desplegado en MLflow, nuestro archivo principal es el nombre del modelo que es diabetes_model.
+- **Rutas de acceso a los archivos:** Se encuentra en la rama evaluación_despliegue, en la carpeta script, en la subcarpeta evaluation se encontrara el modelo y el despliegue.
+- **Variables de entorno:**
+  1) La variable NGROK_TOKEN, seria exponer el servidor MLflow localmente a través de internet, en donde se establece con tu token de ngrok.
+  2) La variable MLFLOW_TRACKING_URI, en donde establece el entorno para apuntar al servidor de seguimiento en MLflow, se establece en http://localhost:5000.
+  3) La otra variable es el puerto de despliegue, que genera una API que se encuentra en el puerto 8001.
 
 ## Documentación del despliegue
 
