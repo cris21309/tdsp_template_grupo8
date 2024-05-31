@@ -20,6 +20,6 @@
 ## Documentación del despliegue
 
 - **Instrucciones de instalación:** Se realiza mediante models serve, que es donde se encuentra el modelo de producción. 
-- **Instrucciones de configuración:** (instrucciones detalladas para configurar el modelo en la plataforma de despliegue)
+- **Instrucciones de configuración:** Asegurar de tener instaladas todas la bibliotecas necesarias, utilizar el comando mlflow server para iniciar un servidor de seguimiento de MLflow, configurar ngrok para exponer el servidor MLflow a través de internet, configurar las variables de entonrno necesarias, como la URI de seguimiento de MLflow, para que apunte al servidor de MLflow.
 - **Instrucciones de uso:** El doctor tendrá que digitar los datos del paciente que serían de manera ordenada, el género, la edad, si tiene hipertensión, si tiene una enfermedad cardiaca, su historial de tabaco, el índice de masa corporal, su nivel promedio de azúcar en sangre y el nivel de glucosa, le va a retornar un valor entero si es de la clase 0 (no tiene diabetes), o de la clase 1 (tiene diabetes).
 - **Instrucciones de mantenimiento:** Si encontramos un nuevo modelo en producción, bajaríamos el servicio y se crea un nuevo servicio con el nuevo modelo.
