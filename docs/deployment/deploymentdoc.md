@@ -6,7 +6,7 @@
 - **Plataforma de despliegue:** La plataforma utilizada fue MLflow.
 - **Requisitos técnicos:** (lista de requisitos técnicos necesarios para el despliegue, como versión de Python, bibliotecas de terceros, hardware, etc.)
 - **Requisitos de seguridad:** El modelo esta pensado para ser desplegado en los hospitales, en donde el hospital brindara los datos, las personas encargadas para ingresar serían los doctores, en donde se tendría un servicio de autenticación, en donde se tendría una lista de usuarios permitidos.
-- **Diagrama de arquitectura:** (imagen que muestra la arquitectura del sistema que se utilizará para desplegar el modelo)
+- **Diagrama de arquitectura:** ![](https://github.com/cris21309/tdsp_template_grupo8/blob/master/docs/deployment/Captura.PNG)
 
 ## Código de despliegue
 
