@@ -4,7 +4,7 @@
 
 - **Nombre del modelo:** Se llama diabetes_model y es un modelo de Random Forest. 
 - **Plataforma de despliegue:** La plataforma utilizada fue MLflow.
-- **Requisitos técnicos:** (lista de requisitos técnicos necesarios para el despliegue, como versión de Python, bibliotecas de terceros, hardware, etc.)
+- **Requisitos técnicos:** Las librerias que se estan utilzando son: numpy, pandas, matplotlib.pyplot, seaborn, tensorflow, sklearn, joblib, mlflow, os, IPyhon.display, pyngrok.ngrok, re y request.
 - **Requisitos de seguridad:** El modelo esta pensado para ser desplegado en los hospitales, en donde el hospital brindara los datos, las personas encargadas para ingresar serían los doctores, en donde se tendría un servicio de autenticación, en donde se tendría una lista de usuarios permitidos.
 - **Diagrama de arquitectura:** ![](https://github.com/cris21309/tdsp_template_grupo8/blob/master/docs/deployment/Captura.PNG)
 
