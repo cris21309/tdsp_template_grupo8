@@ -20,13 +20,21 @@ Los modelos que utilizamos son:
 ## Variables de entrada
 
 Las variables de entrada son:
+
 •	Genero del paciente del reporte.
+
 •	Edad del entrevistado.
+
 •	Presente hipertensión.
+
 •	Tiene una enfermedad cardiaca. 
+
 •	Historial de tabaco.
+
 •	índice de Masa Corporal. 
+
 •	Nivel promedio de azúcar en sangre.
+
 •	Nivel de glucosa.
 
 
