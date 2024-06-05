@@ -33,9 +33,22 @@ Se realizo el entrenamiento en cinco modelos, regresión logística, máquina de
 
 ## Lecciones aprendidas
 
-- Identificación de los principales desafíos y obstáculos encontrados durante el proyecto.
-- Lecciones aprendidas en relación al manejo de los datos, el modelamiento y la implementación del modelo.
-- Recomendaciones para futuros proyectos de machine learning.
+### Desafíos y obstáculos encontrados durante el proyecto
+
+-	Uno de los principales desafíos fue mejorar el modelo ya que la mayoría de los modelos se obtenía una precisión alta y que a la vez no se sobreajustara el modelo y otro de los retos fue el despliegue en la plataforma MLflow.
+  
+### Lecciones aprendidas en relación al manejo de los datos, el modelamiento y la implementación del modelo.
+
+-	Al realizarse un buen análisis exploratorio y un debido preprocesamiento, puede mejorar el rendimiento del modelo y facilitar su interpretación.
+
+- Es importante explorar una variedad de algoritmos de aprendizaje automático y evaluar su rendimiento en función de métricas especificas antes de seleccionar el modelo final.
+
+### Recomendaciones
+
+- Utilizar la metodología CRISP-DM u otras metodologías para proyectos de machine learning.
+-	Asegurar de recopilar datos de alta calidad y suficiente cantidad para entrenar y validar el modelo. 
+-	Mantener los modelos actualizados y adaptar sus estrategias a medida que se recopilen nuevos datos.
+
 
 ## Impacto del proyecto
 
