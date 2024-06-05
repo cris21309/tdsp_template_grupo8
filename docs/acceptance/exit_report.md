@@ -56,8 +56,11 @@ Se realizo el entrenamiento en cinco modelos, regresión logística, máquina de
 
 ## Conclusiones
 
-- Resumen de los resultados y principales logros del proyecto.
-- Conclusiones finales y recomendaciones para futuros proyectos.
+-	Cuando los datos están limpios, completos y bien estructurados y se han realizado análisis exploratorios para comprender la distribución y las características de los datos, los modelos tienen una base sólida para aprender patrones significativos y hacer predicciones precisas.
+-	El modelo de Random Forest fue el más adecuado para este proyecto, con una precisión promedio superior al 97%, fue capaz de identificar eficazmente los casos de diabetes, lo que lo hace útil para su implementación en aplicaciones médicas. Además, el modelo es versátil y no requiere muchos recursos computacionales, lo que lo hace óptimo para su uso por parte de diversos usuarios, como médicos o incluso el público en general a través de servicios en línea.
+-	Los modelos tradicionales, como los árboles de decisión y bosques aleatorios, pueden ofrecer resultados sobresalientes en una variedad en problemas de aprendizaje automático. Estos modelos pueden ser suficientes para resolver tareas complejas sin la necesidad de utilizar modelos mas avanzados o profundos, como las redes neuronales. 
+-	El modelo desarrollado no solo tiene aplicaciones clínicas importantes para la detección y el cuidado de individuos con diabetes, sino que también puede tener un impacto significativo en la salud pública al permitir una intervención temprana y personalizada en la gestión de esta enfermedad crónica.
+
 
 ## Agradecimientos
 
