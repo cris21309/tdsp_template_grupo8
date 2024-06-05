@@ -62,7 +62,3 @@ Se realizo el entrenamiento en cinco modelos, regresión logística, máquina de
 -	El modelo desarrollado no solo tiene aplicaciones clínicas importantes para la detección y el cuidado de individuos con diabetes, sino que también puede tener un impacto significativo en la salud pública al permitir una intervención temprana y personalizada en la gestión de esta enfermedad crónica.
 
 
-## Agradecimientos
-
-- Agradecimientos al equipo de trabajo y a los colaboradores que hicieron posible este proyecto.
-- Agradecimientos especiales a los patrocinadores y financiadores del proyecto.
