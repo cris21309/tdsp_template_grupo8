@@ -16,13 +16,14 @@ Este informe describe los resultados del proyecto de machine learning y presenta
 
 Se realizo el entrenamiento en cinco modelos, regresión logística, máquina de soporte vectorial, K vecinos cercanos, gradiente descendente estocástico y bosques aleatorios, para examinar el modelo lo realizamos con las métricas de exactitud, precisión, sensibilidad y F1-score, todos los modelos tienen un rendimiento bastante alto, con puntajes de precisión, recall y F1-score de alrededor de 0.95 o superior, en donde se determinó que el modelo de bosques aleatorios destaco con una exactitud superior al 97%.
 
-| Modelo | Precision | Recall | F1-score | Accuracy |
+| Modelo | Accuracy | Precision | Recall | F1-score |
 | --- | --- | --- | --- | ---  |
-| Regresión Logística | 0.96 | 0.96 | 0.96 | 0.96 |
-| C-Support Vector Classification | 0.96 | 0.96 | 0.95 | 0.96 |
-| K-Nearest Neighbors Classifier | 0.96 | 0.96 | 0.96 | 0.96 |
-| Stochastic Gradient Descent Classifier  | 0.95 | 0.96 | 0.95 | 0.96 |
-| Árbol de decisión | 0.97 | 0.97 | 0.97 | 0.97 |
+| Regresión Logística | 0.96 | 0.87 | 0.63 | 0.73 |
+| C-Support Vector Classification | 0.96 | 0.94 | 0.57 | 0.72 |
+| K-Nearest Neighbors Classifier | 0.96 | 0.93 | 0.61 | 0.73 |
+| Stochastic Gradient Descent Classifier  | 0.96 | 0.84 | 0.64 | 0.73 |
+| Árbol de decisión | 0.97 | 1.0 | 0.67 | 0.80 |
+| Bosques aleatorios | 0.97 | 0.99 | 0.68 | 0.81 |
 
 ### Descripción de los resultados y su relevancia para el negocio
 
