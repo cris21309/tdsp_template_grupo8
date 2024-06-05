@@ -61,6 +61,8 @@ Para la evaluación del desempeño de los modelos de clasificación se emplearon
 
 Tabla que muestra los resultados de evaluación del modelo baseline, incluyendo las métricas de evaluación.
 
+![Ajustes_resultados_modelos](https://github.com/cris21309/tdsp_template_grupo8/assets/162080075/db0fc289-e21e-4e8f-94e4-1b8c371bb7f4)
+
 ## Análisis de los resultados
 
 Una vez adelantado el análisis de los resultados evidenciamos que el desempeño en cuanto a la clasificación de los diferentes modelos resulta ser satisfactorio, todos los métodos presentaron valores de Acurracy superior al 94% para la clasificación de valores.
