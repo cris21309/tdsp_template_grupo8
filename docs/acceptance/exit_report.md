@@ -39,8 +39,7 @@ Se realizo el entrenamiento en cinco modelos, regresión logística, máquina de
 
 ## Impacto del proyecto
 
-- Descripción del impacto del modelo en el negocio o en la industria.
-- Identificación de las áreas de mejora y oportunidades de desarrollo futuras.
+- El modelo de clasificación de diabetes no solo tiene el potencial de mejorar la atención médica al identificar casos tempranos de la enfermedad, sino que también puede contribuir a la eficiencia operativa y la calidad de vida de los pacientes al empoderarlos para tomar decisiones informadas sobre su salud. 
 
 ## Conclusiones
 
